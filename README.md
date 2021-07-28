@@ -13,7 +13,7 @@ Codes about evolutionary history of wheats
 ### 4. Demography model
 #### Codes in this folder describe the bidirectional gene flow among subspecies in wheats and the genetic legacy of wild progenitors.
 
-### 5 .Migration
+### 5. Migration
 #### Codes in this folder contains maps of all around the world，describing the migration routes of bread wheat.
 
 ### 6. Speciation
