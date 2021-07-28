@@ -23,4 +23,4 @@ Codes about evolutionary history of wheats
 #### Codes in this folder describe the differences in selection pressure for bread wheat in different environmental regions.
 
 ### 8. Vip genes
-#### Codes in this folder describe important genes have been cloned under selection.
+#### Codes in this folder describe the haplotypes of important genes have been cloned under selection.
